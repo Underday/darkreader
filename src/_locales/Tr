@@ -1,0 +1,164 @@
+@extension_description
+Her site için karanlık tema. Gözlerini gündüz ve gece Dark Reader kullanarak koru
+
+@loading_please_wait
+Yükleniyor,lütfen bekle 
+
+#==== Top section ====
+
+@on
+açık
+
+@off
+kapalı
+
+@toggle
+değiştir
+
+@toggle_current_site
+Bu site için değiştir
+
+@setup_hotkey_toggle_site
+Setup current site
+toggle hotkey
+
+@toggle_extension
+Toggle extension
+
+@setup_hotkey_toggle_extension
+Setup extension
+toggle hotkey
+
+@page_protected
+Bu sayfa tarayıcı
+tarafından korunuyor
+
+@page_in_dark_list
+This site is in global
+Dark List
+
+
+#==== Filter ====
+
+@filter
+Flitre
+
+@mode
+Mod
+
+@dark
+Karanlık
+
+@light
+Aydınlık
+
+@brightness
+Parlaklık
+
+@contrast
+Karşıtlık
+
+@grayscale
+Grilik
+
+@sepia
+Sepya tonu
+
+@only_for
+Sadece
+
+@only_for_description
+Ayarları sadece bu site için uygula
+
+
+#==== Site list ====
+
+@site_list
+Site listesi
+
+@invert_listed_only
+Invert listed only
+
+@not_invert_listed
+Not invert listed
+
+@add_site_to_list
+Listeye site ekle
+
+@setup_add_site_hotkey
+Setup a hotkey for adding site
+
+
+#==== More settings ====
+
+@more
+Daha fazla
+
+@select_font
+Yazı fontu se
+
+@text_stroke
+Text stroke
+
+@try_experimental_theme_engines
+Try out **experimental** theme engines:
+**Filter+** preserves colors saturation, uses GPU
+**Static theme** generates a simple fast theme
+**Dynamic theme** analyzes colors and images
+
+@engine_filter
+Filter
+
+@engine_filter_plus
+Filter+
+
+@engine_static
+Static
+
+@engine_dynamic
+Dynamic
+
+@theme_generation_mode
+Theme generation mode
+
+@custom_browser_theme_on
+Custom
+
+@custom_browser_theme_off
+Default
+
+@change_browser_theme
+Change the browser theme
+
+
+#==== Footer ====
+
+@privacy
+Privacy
+
+@help
+Yardım
+
+@donate
+Bağış
+
+@news
+Yenilikler
+
+@read_more
+Daha fazla oku
+
+@open_dev_tools
+Geliştirici araçları
+
+
+#==== Store listing ====
+
+@store_listing
+This eye-care extension enables night mode creating dark themes for websites on the fly. Dark Reader inverts bright colors making them high contrast and easy to read at night.
+
+You can adjust brightness, contrast, sepia filter, dark mode, font settings and ignore-list.
+
+Dark Reader doesn't show ads and doesn't send user's data anywhere. It is fully open-source https://github.com/darkreader/darkreader
+
+Before you install disable similar extensions. Enjoy watching!
